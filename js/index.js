@@ -1,0 +1,3 @@
+window.addEventListener('loaded', function() {
+    
+})
