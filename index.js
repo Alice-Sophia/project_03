@@ -1,1 +1,1 @@
-console.log('这是index.js的修改后的文件')
+console.log('这是index.js的修改后')
